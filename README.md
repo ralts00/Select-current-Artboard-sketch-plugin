@@ -18,7 +18,7 @@ Use [Sketch Toolbox](http://sketchtoolbox.com/) to search for `Sketch Browser Pr
 
 ## Keyboard shortcut
 
-`⌘` + `⇧` + `z`
+`⌘` + `⇧` + `<`
 
 ## Supported Versions
 
