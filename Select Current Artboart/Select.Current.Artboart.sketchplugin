@@ -1,4 +1,4 @@
-// Select current Artboard (cmd shift z)
+// Select current Artboard (cmd shift <)
 
 var page = [doc currentPage],
     current_artboard = [page currentArtboard]
